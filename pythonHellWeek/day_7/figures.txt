@@ -1,0 +1,8 @@
+kwadrat,3
+trojkat,2,5
+trapez,10,20,3
+kolo,10
+deltoid
+kwadrat,4
+trojkat,5,8
+kolo,6
